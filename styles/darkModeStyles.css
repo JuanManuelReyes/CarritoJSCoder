@@ -1,0 +1,26 @@
+body{
+    color: white;
+    background-color: #333;
+}
+th{
+    color: white;
+}
+h5{
+    color: white;
+}
+p{
+    color: white;
+}
+span{
+    color: white;
+}
+td{
+    color: white;
+}
+.card{
+    background-color: rgb(17, 16, 16);
+    border-radius: 10px;
+}
+.footerCopyRight p{
+    color: white;
+}
